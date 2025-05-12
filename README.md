@@ -1,15 +1,16 @@
-# 🧑‍💻 HỌ VÀ TÊN
 
-- 📞 09xxxxxxxx  
-- 📧 yourname@example.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)  
-- 📍 Quận X, TP.HCM
+# 🧑‍💻 BÙI THIÊN HƯƠNG THẢO
+
+- 📞 0853252xxx
+- 📧 buithienhuongthao2005@gmail.com
+- 🌐 [LinkedIn]((https://www.linkedin.com/in/th%E1%BA%A3o-b%C3%B9i-thi%C3%AAn-h%C6%B0%C6%A1ng-5a4349360/)) 
+- 📍 Nhà bè, TP.HCM
 
 ---
 
 ## 🎯 MỤC TIÊU NGHỀ NGHIỆP
 
-Sinh viên năm X ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM, định hướng phát triển trong lĩnh vực phát triển phần mềm và trí tuệ nhân tạo. Mục tiêu ngắn hạn là tích lũy kinh nghiệm qua các dự án thực tế và môi trường doanh nghiệp chuyên nghiệp.
+Sinh viên năm 2 ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM, định hướng phát triển trong lĩnh vực phát triển phần mềm và kiểm thử. Mục tiêu ngắn hạn là tích lũy kinh nghiệm qua các dự án thực tế và môi trường doanh nghiệp chuyên nghiệp.
 
 ---
 
@@ -17,9 +18,7 @@ Sinh viên năm X ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM
 
 **Trường Đại học Mở TP.HCM**  
 _Bachelor of Science in Computer Science_  
-📅 2021 – nay  
-- GPA: 3.5 / 4.0  
-- Môn học tiêu biểu: Cấu trúc dữ liệu & Giải thuật, Lập trình Python, Học máy cơ bản, Cơ sở dữ liệu
+📅 2023 – nay 
 
 ---
 
@@ -29,14 +28,16 @@ _Bachelor of Science in Computer Science_
 
 | Kỹ năng                  | Biểu tượng | Mức độ       |
 |--------------------------|------------|--------------|
-| Python                   | 🐍         | ⭐⭐⭐⭐☆        |
-| C++                      | 💻         | ⭐⭐⭐⭐☆        |
-| Java                     | ☕         | ⭐⭐⭐☆☆        |
+| Python                   | 🐍         | ⭐⭐☆☆☆        |
+| C++                      | 💻         | ⭐⭐⭐☆☆        |
+| C#                       | 🎓         | ⭐⭐⭐☆☆        |
+| Java                     | ☕         | ⭐⭐☆☆☆        |
 | HTML/CSS                 | 🌐         | ⭐⭐⭐⭐☆        |
+| React.js                 | 🔬         | ⭐⭐☆☆☆        |
 | JavaScript               | ⚙️         | ⭐⭐⭐☆☆        |
-| MySQL                    | 📊         | ⭐⭐⭐☆☆        |
+| MySQL                    | 📊         | ⭐⭐☆☆☆        |
 | Git & GitHub             | 🛠         | ⭐⭐⭐⭐☆        |
-| Machine Learning (Sklearn)| 🧠        | ⭐⭐⭐☆☆        |
+| MongoDB                  | 🧠         | ⭐⭐☆☆☆        |
 
 ### 🧪 Công cụ & Thư viện
 
@@ -60,44 +61,45 @@ _Bachelor of Science in Computer Science_
 
 ## 💼 DỰ ÁN / KINH NGHIỆM
 
-### 📌 Student Management System – Cá nhân  
-**Công nghệ:** Python, Tkinter, SQLite  
-- Thiết kế phần mềm quản lý sinh viên: thêm, sửa, tìm kiếm dữ liệu  
-- Áp dụng OOP và CRUD trong mô hình MVC cơ bản  
+### 📌TOEIC Learning System – Nhóm 5 người  
+📅 01/2025 – nay 
+**Công nghệ:** Python, React.js, MySQL  
+-   Phát triển nền tảng học tập và thực hành TOEIC thông minh
+-   Tập trung vào phân tích học tập được hỗ trợ bởi AI và thiết kế hệ thống
 
-### 🌐 Tech Product Landing Page – Nhóm 3 người  
-**Công nghệ:** HTML, CSS, JavaScript  
-- Xây dựng giao diện landing page giới thiệu sản phẩm công nghệ  
-- Thiết kế responsive UI, form liên hệ, triển khai GitHub Pages  
+### 🌐Multiple choice test program – Nhóm 2 người  
+📅 03/2025 – 04/2025
+**Công nghệ:** C#
+- Xây dựng giao diện làm bài trắc nghiệm
+- Chức năng Thêm, sửa, tìm kiếm bài thi dành cho giáo viên và tìm kiếm, làm bài cho học sinh
 
-### 🔍 Smart OCR System (Demo)  
-**Công nghệ:** Python, OpenCV, Flask  
-- Nhận dạng văn bản từ ảnh in ấn  
-- Tiền xử lý ảnh + tích hợp OCR engine (Tesseract)
+### 🔍 To-do List Web– Nhóm 2 người
+📅 10/2024 – 11/2024
+**Công nghệ:** HTML, CSS, Express.js, Fetch API, MongoDB
+- Một web cho phép người dùng quản lý công việc của họ
+- Thêm, sửa, xóa, tìm kiếm dữ liệu 
 
+### 🔍 University admissions website– Nhóm 2 người
+📅 07/2024 – 09/2024
+**Công nghệ:** HTML, CSS and JavaScript
+- Một trang web đơn giản để giới thiệu thông tin trường đại học
+- Triển khai GitHub Pages
 ---
 
 ## 📚 HOẠT ĐỘNG & CỘNG ĐỒNG
 
-- Thành viên CLB Lập trình – ĐH Mở TP.HCM (2022 – nay)  
-- Tình nguyện viên "Hour of Code" tại trường THPT chuyên Lê Hồng Phong  
-- Viết blog chia sẻ kiến thức Python & Data Science (2024 – nay)
 
 ---
 
 ## 🏆 CHỨNG CHỈ & GIẢI THƯỞNG
 
-- ✅ Chứng chỉ “Python for Everybody” – Coursera (2023)  
-- 🥈 Top 10 Code Battle – Trường ĐH Mở TP.HCM (2024)  
-- 🗣 IELTS 6.5 – British Council (2024)
+- ✅ Chứng chỉ Khóa học Iot - Samsung Innovation Campus (đang học) 
 
 ---
 
 ## 🌍 NGÔN NGỮ & SỞ THÍCH
 
-- 🔤 Tiếng Việt (native), Tiếng Anh (giao tiếp & kỹ thuật tốt)  
-- 🧠 Sở thích: AI & Deep Learning, viết blog kỹ thuật, đọc sách công nghệ  
+- 🔤 Tiếng Việt (native), Tiếng Anh (giao tiếp & kỹ thuật cơ bản)  
+- 🧠 Sở thích: nghe nhạc,  đọc sách công nghệ  
 
 ---
-
-> 📌 *Người giới thiệu sẽ cung cấp khi có yêu cầu.*
