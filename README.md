@@ -3,7 +3,7 @@
 
 - 📞 0853252xxx
 - 📧 buithienhuongthao2005@gmail.com
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/th%E1%BA%A3o-b%C3%B9i-thi%C3%AAn-h%C6%B0%C6%A1ng-5a4349360/)) 
+- 🌐 [LinkedIn](https://www.linkedin.com/in/th%E1%BA%A3o-b%C3%B9i-thi%C3%AAn-h%C6%B0%C6%A1ng-5a4349360/)
 - 📍 Nhà bè, TP.HCM
 
 ---
