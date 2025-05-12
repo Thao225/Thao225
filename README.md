@@ -62,25 +62,25 @@ _Bachelor of Science in Computer Science_
 ## 💼 DỰ ÁN / KINH NGHIỆM
 
 ### 📌TOEIC Learning System – Nhóm 5 người  
-📅 01/2025 – nay 
+📅 01/2025 – nay</br>
 **Công nghệ:** Python, React.js, MySQL  
 -   Phát triển nền tảng học tập và thực hành TOEIC thông minh
 -   Tập trung vào phân tích học tập được hỗ trợ bởi AI và thiết kế hệ thống
 
 ### 🌐Multiple choice test program – Nhóm 2 người  
-📅 03/2025 – 04/2025
+📅 03/2025 – 04/2025</br>
 **Công nghệ:** C#
 - Xây dựng giao diện làm bài trắc nghiệm
 - Chức năng Thêm, sửa, tìm kiếm bài thi dành cho giáo viên và tìm kiếm, làm bài cho học sinh
 
 ### 🔍 To-do List Web– Nhóm 2 người
-📅 10/2024 – 11/2024
+📅 10/2024 – 11/2024</br>
 **Công nghệ:** HTML, CSS, Express.js, Fetch API, MongoDB
 - Một web cho phép người dùng quản lý công việc của họ
 - Thêm, sửa, xóa, tìm kiếm dữ liệu 
 
 ### 🔍 University admissions website– Nhóm 2 người
-📅 07/2024 – 09/2024
+📅 07/2024 – 09/2024</br>
 **Công nghệ:** HTML, CSS and JavaScript
 - Một trang web đơn giản để giới thiệu thông tin trường đại học
 - Triển khai GitHub Pages
